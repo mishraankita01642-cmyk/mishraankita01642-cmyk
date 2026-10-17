@@ -1,7 +1,7 @@
 # Hi, I'm Ankita👋
 
  **Branch:** Computer Science Engineering (CSE)  
- **Year:** 1st Year B.Tech  
+ **Year:** 2nd Year B.Tech  
 
 ---
 
